@@ -1,2 +1,2 @@
 # bossable2
-Meanjs in 30 days with bossable
+Meanjs in 30 days with bossable. interesting...
